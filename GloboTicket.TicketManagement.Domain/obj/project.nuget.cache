@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VIe0NbQcIR41LV6+qvvrbhYRa6pP62Jxc1lfj2jFZHVDEzKTM3WunHmEAa5f5mhn3F4nlmaSB7jqucBW6MdX+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jmond\\Desktop\\Projects\\CleanArchitectureExample\\GloboTicket.TicketManagement.Domain\\GloboTicket.TicketManagement.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jmond\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\jmond\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\jmond\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}
